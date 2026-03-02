@@ -4,8 +4,8 @@ import os
 # from moviepy.editor import VideoFileClip, AudioFileClip
 # from pydub import AudioSegment
 
-DEFAULT_DOWNLOAD_PATH = "/Users/lapyinho/YoutubeDownloader/YoutubeDownloads"
-DEFAULT_TEMP_PATH = "/Users/lapyinho/YoutubeDownloader/TEMP"
+DEFAULT_DOWNLOAD_PATH = "~/YoutubeDownloader/YoutubeDownloads"
+DEFAULT_TEMP_PATH = "~/YoutubeDownloader/TEMP"
 
 
 def is_valid_url(url):
